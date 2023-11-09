@@ -17,6 +17,7 @@ Welcome to the Hangman Flutter App! This is a fun and interactive mobile game bu
 
 ## Screenshots
 
+![Login](screenshots/login.png)
 ![Gameplay](screenshots/gameplay.png)
 ![Leaderboard](screenshots/leaderboard.png)
 ![Profile](screenshots/profile.png)
