@@ -11,7 +11,7 @@ Welcome to the Hangman Flutter App! This is a fun and interactive mobile game bu
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/Alston16/HangMan.git`
-2. Navigate to the project folder: `cd hangman-flutter`
+2. Navigate to the project folder: `cd HangMan`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
 
